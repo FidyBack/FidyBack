@@ -29,9 +29,7 @@
   <a href="https://github.com/FidyBack/Analise_gastos">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FidyBack&repo=Analise_gastos&show_icons=true&theme=midnight-purple&hide_border=true"/>
   </a>
-  <a href="https://github.com/FidyBack/cloud_containers">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FidyBack&repo=cloud_containers&show_icons=true&theme=midnight-purple&hide_border=true"/>
-  </a>
+
   <a href="https://github.com/FidyBack/port_searcher">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FidyBack&repo=port_searcher&show_icons=true&theme=midnight-purple&hide_border=true"/>
   </a>
